@@ -1,6 +1,6 @@
 # Hi there, I'm Abdul Rab! 👋
 
-🎓 MCA Pursuing | 📊 Aspiring Data Analyst | 🔍 Open to Remote Internships & Entry-Level Roles
+🎓 MCA Pursuing | 📊 Aspiring Data Analyst | 🔍 Open to Internships & Entry-Level Roles
 
 ---
 
