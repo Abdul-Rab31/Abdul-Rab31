@@ -8,7 +8,6 @@
 
 - 📊 Passionate about turning raw data into meaningful insights
 - 💼 Looking for **Remote Data Analyst / Internship** opportunities
-- 📚 Always learning — currently exploring **Microsoft Fabric & Power BI**
 - 📍 India
 
 ---
