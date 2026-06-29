@@ -8,7 +8,7 @@
 
 - 📊 Passionate about turning raw data into meaningful insights
 - 💼 Looking for **Data Analyst / Internship** opportunities
-- 📚 Always learning — currently exploring **Python Libraries & PostgreSQL**
+- 📚 Always learning — currently exploring **Python Libraries**
 - 📍 India
 
 ---
