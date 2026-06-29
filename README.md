@@ -7,7 +7,8 @@
 ## 🚀 About Me
 
 - 📊 Passionate about turning raw data into meaningful insights
-- 💼 Looking for **Remote Data Analyst / Internship** opportunities
+- 💼 Looking for **Data Analyst / Internship** opportunities
+- 📚 Always learning — currently exploring **Python Libraries & PostgreSQL**
 - 📍 India
 
 ---
@@ -17,9 +18,10 @@
 **Data Analysis & Visualization**
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Python Libraries**
 
@@ -31,6 +33,8 @@
 **Other**
 
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
