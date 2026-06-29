@@ -8,7 +8,7 @@
 
 - 📊 Passionate about turning raw data into meaningful insights
 - 💼 Looking for **Data Analyst / Internship** opportunities
-- 📚 Always learning — currently exploring **Python Libraries**
+- 📚 Always learning — currently exploring **Python Libraries & PostgreSQL**
 - 📍 India
 
 ---
@@ -33,17 +33,10 @@
 **Other**
 
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![Abdul Rab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Rab31&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rab31&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
