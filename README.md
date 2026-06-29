@@ -31,7 +31,6 @@
 **Other**
 
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
