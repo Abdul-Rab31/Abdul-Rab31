@@ -1,30 +1,35 @@
 # Hi there, I'm Abdul Rab! 👋
 
-🎓 MCA Pursuing | 📊 Aspiring Data Analyst | 🔍 Open to Internships & Entry-Level Roles
+🎓 MCA Pursuing | 📊 Power BI Developer & Data Analyst | 🔍 Open to Internships & Entry-Level Roles
 
 ---
 
 ## 🚀 About Me
 
 - 📊 Passionate about turning raw data into meaningful insights
-- 💼 Looking for **Data Analyst / Internship** opportunities
-- 📚 Always learning — currently exploring **Python Libraries**
-- 📍 India
+- 📈 Hands-on experience building **interactive dashboards & BI solutions**
+- 💼 Looking for **Power BI Developer / Data Analyst / Business Analyst** opportunities
+- 📍 Hyderabad, India
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Data Analysis & Visualization**
+**Data Visualization & BI**
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Database & Querying**
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Python Libraries**
+**Programming & Libraries**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -35,8 +40,15 @@
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🏆 Certifications
+
+- 🎓 **GenAI Powered Data Analytics Job Simulation** — Forage, Tata Group *(July 2026)*
+- 📊 **Microsoft Excel with AI** — SkillCourse
 
 ---
 
