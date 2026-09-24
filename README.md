@@ -1,6 +1,6 @@
 # Hi there, I'm Abdul Rab! 👋
 
-🎓 MCA Pursuing | 📊 Power BI Developer & Data Analyst | 🔍 Open to Internships & Entry-Level Roles
+🎓 MCA Pursuing | 📊 Power BI Developer & Data Analyst | 🔍 Open to Internships & Jobs
 
 ---
 
